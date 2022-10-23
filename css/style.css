@@ -84,6 +84,7 @@
 ----------------- */
 .textarea > textarea{
     background-color: #D0D0D0;
+    position: relative;
 }
 .textarea-button{
     background-color:#555555; ;
