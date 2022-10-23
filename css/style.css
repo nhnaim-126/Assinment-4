@@ -90,6 +90,10 @@ body{
 -----------------------------
 ----------------- */
 
+.textarea-part h4{
+    text-align: center;
+    margin-bottom: 15px;
+}
 .textarea > textarea{
     background-color: #D0D0D0;
     width: 100%;
